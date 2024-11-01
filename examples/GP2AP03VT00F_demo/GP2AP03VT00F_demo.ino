@@ -14,7 +14,7 @@ GP2AP03VT00F distSense = GP2AP03VT00F();
 void setup() {
   // Initialize serial printing
   Serial.begin(115200);
-  Serial.println("GP2AP03VT00F Time-Of-Flight sensor polling example");
+  Serial.println("GP2AP03VT00F Time-Of-Flight sensor example");
   
   // Initialize the I2C bus before the sensor, the sensor needs it!
   Wire.begin();
