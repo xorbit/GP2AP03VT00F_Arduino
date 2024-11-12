@@ -39,3 +39,6 @@ you have useful insights or information, please open an issue!
 Please refer to the example code to see how to use this driver, it's
 quite simple.
 
+If you want an easy way to play with this sensor, you can now
+[buy my breakout board on Tindie](https://www.tindie.com/products/silicognition/sharp-gp2ap03vt00f-time-of-flight-breakout/).
+
